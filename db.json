@@ -1,0 +1,17 @@
+{
+  "bg1": "https://p42.ai/image/blog/3-javascript-features-from-2020-that-will-make-your-life-easier/header.jpg",
+  "bg2": "https://moociverse.com/wp-content/uploads/2020/05/AdobeStock_144798133-1280x640.jpeg",
+  "bg3": "https://res.cloudinary.com/karl-tech/image/upload/v1504037663/ethereum-coffee-roach_aajijn.jpg",
+  "title": "VanillaQuiz",
+  "description": "Seja o mestre vanilla",
+  "theme": {
+    "colors": {
+      "primary": "#edc951",
+      "secondary": "#00a0b0",
+      "mainbg": "#6a4a3c",
+      "success": "#4caf50",
+      "error": "#f44336",
+      "warning": "#ff9800"
+    }
+  }
+}
